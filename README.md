@@ -6,6 +6,7 @@ This is pretty *cool*.
  - hello
  - jinx
  - words
+ - music
 
 we are gonna insert a link [google](www.google.com)
 
